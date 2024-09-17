@@ -5,11 +5,11 @@
 </div>
 
 <p align="center">
-  A minimalistic desktop application written in <b>go</b> with <b>fyne</b> library.
+  A minimalistic desktop application written in <b>Go</b> with <b>Fyne</b> library.
 </p>
 
 ## Installing and running
-\* Make sure you have **go** installed on your computer.
+\* Make sure you have **Go** and **Fyne** installed on your computer.
 
 Run:
 ```bash
